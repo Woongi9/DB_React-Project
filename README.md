@@ -23,7 +23,10 @@
 <img width="569" alt="image" src="https://user-images.githubusercontent.com/79649052/159126956-bf151214-ef0b-4626-a84f-ca54ae810dac.png">
 
 
+
+
 #시퀀스 다이어그램 
 <img width="355" alt="image" src="https://user-images.githubusercontent.com/79649052/159126980-bd2a4f14-8c96-4969-9ec6-c3c7411eb3cd.png">
+
 // npm을 실행하면 웹 페이지에서 Mysql에 정보를 요청하고, 그 결과를 각 페이지에 저장한다. 그리고 table 페이지에는 join table 명령어에 대한 결과를 토대로 이미지와 무기 정보를 출력한다.
 

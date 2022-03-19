@@ -31,3 +31,13 @@
 
 <img width="355" alt="image" src="https://user-images.githubusercontent.com/79649052/159126980-bd2a4f14-8c96-4969-9ec6-c3c7411eb3cd.png">
 
+
+
+#페이지 출력
+<img width="345" alt="image" src="https://user-images.githubusercontent.com/79649052/159127143-c15365e3-f92a-4673-9dc2-82e843432fc2.png">
+
+<img width="401" alt="image" src="https://user-images.githubusercontent.com/79649052/159127157-a4d4f80a-f8f0-4429-a1e2-c3dafb6cbe84.png">
+
+<img width="345" alt="image" src="https://user-images.githubusercontent.com/79649052/159127143-c15365e3-f92a-4673-9dc2-82e843432fc2.png">
+
+#ㅍ

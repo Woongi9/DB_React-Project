@@ -1,5 +1,17 @@
 # DB_React-Project
 
+#페이지 출력
+
+
+<img width="345" alt="image" src="https://user-images.githubusercontent.com/79649052/159127143-c15365e3-f92a-4673-9dc2-82e843432fc2.png">
+
+
+
+<img width="401" alt="image" src="https://user-images.githubusercontent.com/79649052/159127157-a4d4f80a-f8f0-4429-a1e2-c3dafb6cbe84.png">
+
+
+
+
 
 #작품 개요
 
@@ -33,11 +45,4 @@
 
 
 
-#페이지 출력
-
-
-<img width="345" alt="image" src="https://user-images.githubusercontent.com/79649052/159127143-c15365e3-f92a-4673-9dc2-82e843432fc2.png">
-
-
-<img width="401" alt="image" src="https://user-images.githubusercontent.com/79649052/159127157-a4d4f80a-f8f0-4429-a1e2-c3dafb6cbe84.png">
 
